@@ -9,6 +9,7 @@ This repository contains all my practice code along with questions which i have 
 | [0001-two-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
