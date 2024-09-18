@@ -13,6 +13,7 @@ This repository contains all my practice code along with questions which i have 
 | [0027-remove-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +79,8 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
