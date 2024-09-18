@@ -13,6 +13,7 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0007-reverse-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +36,8 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
