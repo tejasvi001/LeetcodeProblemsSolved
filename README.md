@@ -36,6 +36,7 @@ This repository contains all my practice code along with questions which i have 
 | [0009-palindrome-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0050-powx-n) |
 ## Stack
 |  |
 | ------- |
