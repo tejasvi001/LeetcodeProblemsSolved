@@ -15,12 +15,14 @@ This repository contains all my practice code along with questions which i have 
 | [0035-search-insert-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,8 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
