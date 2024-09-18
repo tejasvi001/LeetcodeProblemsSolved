@@ -24,4 +24,5 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
