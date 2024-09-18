@@ -20,6 +20,7 @@ This repository contains all my practice code along with questions which i have 
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ This repository contains all my practice code along with questions which i have 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -126,6 +129,7 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0075-sort-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 ## Tree
 |  |
 | ------- |
