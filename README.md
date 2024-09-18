@@ -43,4 +43,9 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
