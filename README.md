@@ -27,6 +27,7 @@ This repository contains all my practice code along with questions which i have 
 | [0004-median-of-two-sorted-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This repository contains all my practice code along with questions which i have 
 | [0050-powx-n](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
