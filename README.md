@@ -21,6 +21,7 @@ This repository contains all my practice code along with questions which i have 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0238-product-of-array-except-self) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -154,4 +155,8 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0104-maximum-depth-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
