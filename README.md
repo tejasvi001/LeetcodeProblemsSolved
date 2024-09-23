@@ -19,6 +19,7 @@ This repository contains all my practice code along with questions which i have 
 | [0074-search-a-2d-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
@@ -51,6 +52,7 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -155,6 +157,7 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -166,6 +169,7 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
@@ -179,5 +183,6 @@ This repository contains all my practice code along with questions which i have 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
