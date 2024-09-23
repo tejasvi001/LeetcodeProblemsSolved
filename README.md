@@ -24,6 +24,7 @@ This repository contains all my practice code along with questions which i have 
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
@@ -42,6 +43,7 @@ This repository contains all my practice code along with questions which i have 
 | [0035-search-insert-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
+| [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
