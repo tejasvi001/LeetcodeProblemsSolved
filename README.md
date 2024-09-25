@@ -68,6 +68,7 @@ This repository contains all my practice code along with questions which i have 
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Memoization
 |  |
@@ -189,4 +191,8 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
