@@ -26,6 +26,7 @@ This repository contains all my practice code along with questions which i have 
 | [0238-product-of-array-except-self](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -38,6 +39,7 @@ This repository contains all my practice code along with questions which i have 
 | [0013-roman-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -119,6 +121,7 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -195,4 +198,8 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
