@@ -206,4 +206,8 @@ This repository contains all my practice code along with questions which i have 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
