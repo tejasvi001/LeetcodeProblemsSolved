@@ -209,5 +209,6 @@ This repository contains all my practice code along with questions which i have 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
