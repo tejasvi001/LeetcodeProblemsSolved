@@ -217,6 +217,7 @@ This repository contains all my practice code along with questions which i have 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0620-not-boring-movies) |
