@@ -220,6 +220,7 @@ This repository contains all my practice code along with questions which i have 
 | [0181-employees-earning-more-than-their-managers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1827-invalid-tweets) |
