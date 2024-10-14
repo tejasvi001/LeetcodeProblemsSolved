@@ -226,4 +226,5 @@ This repository contains all my practice code along with questions which i have 
 | [1877-find-followers-count](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
