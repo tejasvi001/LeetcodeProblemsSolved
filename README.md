@@ -89,6 +89,7 @@ This repository contains all my practice code along with questions which i have 
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -109,6 +110,7 @@ This repository contains all my practice code along with questions which i have 
 | [0058-length-of-last-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
 ## Trie
