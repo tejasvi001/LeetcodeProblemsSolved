@@ -34,6 +34,7 @@ This repository contains all my practice code along with questions which i have 
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
@@ -46,6 +47,7 @@ This repository contains all my practice code along with questions which i have 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ This repository contains all my practice code along with questions which i have 
 | [0345-reverse-vowels-of-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -186,6 +189,7 @@ This repository contains all my practice code along with questions which i have 
 | [0075-sort-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
 ## Tree
 |  |
