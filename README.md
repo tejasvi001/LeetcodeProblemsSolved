@@ -29,6 +29,7 @@ This repository contains all my practice code along with questions which i have 
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
