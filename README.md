@@ -130,6 +130,7 @@ This repository contains all my practice code along with questions which i have 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
+| [2580-circular-sentence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2580-circular-sentence) |
 ## Trie
 |  |
 | ------- |
