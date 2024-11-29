@@ -265,6 +265,7 @@ This repository contains all my practice code along with questions which i have 
 | [1258-article-views-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1811-fix-names-in-a-table) |
