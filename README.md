@@ -257,6 +257,7 @@ This repository contains all my practice code along with questions which i have 
 | [0596-classes-more-than-5-students](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1908-recyclable-and-low-fat-products) |
