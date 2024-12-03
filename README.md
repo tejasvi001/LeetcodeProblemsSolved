@@ -269,6 +269,7 @@ This repository contains all my practice code along with questions which i have 
 | [1664-find-users-with-valid-e-mails](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-find-followers-count) |
