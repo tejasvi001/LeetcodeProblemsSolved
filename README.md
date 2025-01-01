@@ -129,6 +129,7 @@ This repository contains all my practice code along with questions which i have 
 | [0812-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
 | [2580-circular-sentence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2580-circular-sentence) |
@@ -234,6 +235,7 @@ This repository contains all my practice code along with questions which i have 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
