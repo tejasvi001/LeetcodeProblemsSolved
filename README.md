@@ -96,6 +96,7 @@ This repository contains all my practice code along with questions which i have 
 | [0042-trapping-rain-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
@@ -123,6 +124,7 @@ This repository contains all my practice code along with questions which i have 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0345-reverse-vowels-of-a-string) |
