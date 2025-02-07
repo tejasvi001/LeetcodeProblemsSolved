@@ -1,8 +1,8 @@
-#Leetcode Problems Solved
+# Leetcode Problems Solved
 
 This repository contains my solutions to various problems I have solved on LeetCode. Each solution is accompanied by the problem statement and is implemented in an optimized manner.
 
-#📌 Repository Structure
+# 📌 Repository Structure
 
 Each problem is categorized based on DSA / SQL.
 
@@ -10,7 +10,7 @@ The solutions are implemented in Java for DSA and SQL for database related probl
 
 Every solution includes a well-structured explanation and comments.
 
-#🚀 How to Use
+# 🚀 How to Use
 
 Clone the repository:
 
