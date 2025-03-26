@@ -107,6 +107,7 @@ Open the problem file to see the solution and explanation.
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
