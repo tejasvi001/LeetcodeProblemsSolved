@@ -94,6 +94,7 @@ Open the problem file to see the solution and explanation.
 | [0004-median-of-two-sorted-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -211,6 +212,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
