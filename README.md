@@ -47,6 +47,7 @@ Open the problem file to see the solution and explanation.
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@ Open the problem file to see the solution and explanation.
 | [0013-roman-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
@@ -245,6 +247,7 @@ Open the problem file to see the solution and explanation.
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
@@ -349,4 +352,8 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
