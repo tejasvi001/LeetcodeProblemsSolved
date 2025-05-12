@@ -124,6 +124,7 @@ Open the problem file to see the solution and explanation.
 | [0070-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -205,6 +206,7 @@ Open the problem file to see the solution and explanation.
 | [0050-powx-n](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Open the problem file to see the solution and explanation.
 | ------- |
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
