@@ -70,6 +70,7 @@ Open the problem file to see the solution and explanation.
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
 |  |
@@ -239,6 +240,7 @@ Open the problem file to see the solution and explanation.
 | [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0338-counting-bits) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Simulation
 |  |
 | ------- |
