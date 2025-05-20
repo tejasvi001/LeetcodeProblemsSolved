@@ -65,6 +65,7 @@ Open the problem file to see the solution and explanation.
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1293-three-consecutive-odds](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -256,6 +257,7 @@ Open the problem file to see the solution and explanation.
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Memoization
 |  |
@@ -268,6 +270,7 @@ Open the problem file to see the solution and explanation.
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sorting
 |  |
