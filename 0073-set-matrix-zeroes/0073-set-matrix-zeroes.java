@@ -1,35 +1,31 @@
 class Solution {
-    private int r;
-    private int c;
-    int mymatrix[][];
     public void setZeroes(int[][] matrix) {
-       r=matrix.length;
-       c=matrix[0].length;
-       mymatrix=new int[r][c];
-       for(int i=0;i<r;i++)
-           for(int j=0;j<c;j++)
-                mymatrix[i][j]=1;
-       for(int i=0;i<r;i++){
-           for(int j=0;j<c;j++){
-               if(matrix[i][j]==0){
-                   setRows(i);
-                   setCols(j);
-               }
-           }
-       }
-       for(int i=0;i<r;i++)
-                  for(int j=0;j<c;j++)
-                        if(mymatrix[i][j]==0)
-                                  matrix[i][j]=mymatrix[i][j];
+        boolean isZero[][]=new boolean[matrix.length][matrix[0].length];
+        int i,j;
+        for(i=0;i<matrix.length;i++){
+            for( j=0;j<matrix[0].length;j++){
+                if(matrix[i][j]==0){
+                    setRowZero(isZero,i);
+                    setColZero(isZero,j);
+                }
+            }
+        }
+        for(i=0;i<matrix.length;i++){
+            for(j=0;j<matrix[0].length;j++){
+                if(isZero[i][j]){
+                    matrix[i][j]=0;
+                }
+            }
+        }
     }
-    public void setRows(int row){
-         for(int i=0;i<c;i++){
-             mymatrix[row][i]=0;
-         }
+    public void setRowZero(boolean matrix[][],int row){
+        for(int i=0;i<matrix[0].length;i++){
+            matrix[row][i]=true;
+        }
     }
-    public void setCols( int col){
-        for(int i=0;i<r;i++){
-            mymatrix[i][col]=0;
+     public void setColZero(boolean matrix[][],int col){
+        for(int i=0;i<matrix.length;i++){
+            matrix[i][col]=true;
         }
     }
 }
