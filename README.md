@@ -74,6 +74,7 @@ Open the problem file to see the solution and explanation.
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
+| [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
@@ -138,6 +139,7 @@ Open the problem file to see the solution and explanation.
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -279,6 +281,7 @@ Open the problem file to see the solution and explanation.
 | [0898-transpose-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
+| [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 ## Sorting
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
+| [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 ## Monotonic Stack
 |  |
 | ------- |
