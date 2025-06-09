@@ -89,6 +89,7 @@ Open the problem file to see the solution and explanation.
 | [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0229-majority-element-ii) |
@@ -157,6 +158,7 @@ Open the problem file to see the solution and explanation.
 | [0075-sort-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
@@ -213,6 +215,7 @@ Open the problem file to see the solution and explanation.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
