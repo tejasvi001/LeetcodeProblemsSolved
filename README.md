@@ -242,6 +242,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
@@ -315,6 +316,7 @@ Open the problem file to see the solution and explanation.
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,6 +324,7 @@ Open the problem file to see the solution and explanation.
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +334,7 @@ Open the problem file to see the solution and explanation.
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -422,4 +426,8 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
