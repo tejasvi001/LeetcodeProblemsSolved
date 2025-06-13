@@ -75,6 +75,7 @@ Open the problem file to see the solution and explanation.
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -114,6 +115,7 @@ Open the problem file to see the solution and explanation.
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Open the problem file to see the solution and explanation.
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
