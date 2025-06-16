@@ -144,6 +144,7 @@ Open the problem file to see the solution and explanation.
 | [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -236,6 +237,7 @@ Open the problem file to see the solution and explanation.
 | [0206-reverse-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Open the problem file to see the solution and explanation.
 | [0338-counting-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
+| [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -288,6 +291,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
