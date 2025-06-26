@@ -42,6 +42,7 @@ Open the problem file to see the solution and explanation.
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -256,6 +257,7 @@ Open the problem file to see the solution and explanation.
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
@@ -404,6 +406,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
