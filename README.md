@@ -224,6 +224,7 @@ Open the problem file to see the solution and explanation.
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
 | [3451-string-compression-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3451-string-compression-iii) |
@@ -263,6 +264,7 @@ Open the problem file to see the solution and explanation.
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
+| [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -306,6 +308,7 @@ Open the problem file to see the solution and explanation.
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
+| [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
 ## Memoization
 |  |
 | ------- |
