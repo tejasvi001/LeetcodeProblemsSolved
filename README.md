@@ -73,6 +73,7 @@ Open the problem file to see the solution and explanation.
 | [0643-maximum-average-subarray-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -244,6 +245,7 @@ Open the problem file to see the solution and explanation.
 | [0203-remove-linked-list-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
+| [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
 ## Recursion
@@ -462,11 +464,13 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0303-range-sum-query-immutable) |
+| [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
