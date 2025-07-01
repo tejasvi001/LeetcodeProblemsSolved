@@ -232,6 +232,7 @@ Open the problem file to see the solution and explanation.
 | [2580-circular-sentence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
 | [3451-string-compression-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3451-string-compression-iii) |
+| [3617-find-the-original-typed-string-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3617-find-the-original-typed-string-i) |
 ## Trie
 |  |
 | ------- |
