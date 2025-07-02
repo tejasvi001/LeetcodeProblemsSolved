@@ -233,6 +233,7 @@ Open the problem file to see the solution and explanation.
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
 | [3451-string-compression-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3618-find-the-original-typed-string-ii) |
 ## Trie
 |  |
 | ------- |
@@ -291,6 +292,7 @@ Open the problem file to see the solution and explanation.
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
+| [3618-find-the-original-typed-string-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -406,6 +408,7 @@ Open the problem file to see the solution and explanation.
 | [0303-range-sum-query-immutable](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3618-find-the-original-typed-string-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search Tree
 |  |
