@@ -166,6 +166,7 @@ Open the problem file to see the solution and explanation.
 | [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -260,6 +261,7 @@ Open the problem file to see the solution and explanation.
 | [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -305,6 +307,7 @@ Open the problem file to see the solution and explanation.
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0338-counting-bits) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -319,6 +322,7 @@ Open the problem file to see the solution and explanation.
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
