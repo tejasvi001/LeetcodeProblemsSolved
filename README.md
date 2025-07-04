@@ -248,6 +248,7 @@ Open the problem file to see the solution and explanation.
 | [0203-remove-linked-list-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
+| [0838-design-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
@@ -472,6 +473,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0303-range-sum-query-immutable) |
+| [0838-design-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0969-number-of-recent-calls) |
