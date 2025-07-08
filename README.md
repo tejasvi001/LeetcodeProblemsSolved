@@ -376,6 +376,7 @@ Open the problem file to see the solution and explanation.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -394,6 +395,7 @@ Open the problem file to see the solution and explanation.
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -416,6 +418,7 @@ Open the problem file to see the solution and explanation.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -434,6 +437,7 @@ Open the problem file to see the solution and explanation.
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
