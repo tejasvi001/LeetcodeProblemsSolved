@@ -147,6 +147,7 @@ Open the problem file to see the solution and explanation.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
@@ -245,6 +246,7 @@ Open the problem file to see the solution and explanation.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -259,6 +261,7 @@ Open the problem file to see the solution and explanation.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0203-remove-linked-list-elements) |
