@@ -134,6 +134,7 @@ Open the problem file to see the solution and explanation.
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
@@ -311,6 +312,7 @@ Open the problem file to see the solution and explanation.
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
 |  |
@@ -397,6 +399,7 @@ Open the problem file to see the solution and explanation.
 | [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -415,6 +418,7 @@ Open the problem file to see the solution and explanation.
 | [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -453,6 +457,7 @@ Open the problem file to see the solution and explanation.
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -531,6 +536,7 @@ Open the problem file to see the solution and explanation.
 | [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0969-number-of-recent-calls) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Queue
 |  |
 | ------- |
