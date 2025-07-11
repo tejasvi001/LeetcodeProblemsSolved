@@ -143,6 +143,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -260,6 +261,7 @@ Open the problem file to see the solution and explanation.
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0142-linked-list-cycle-ii) |
@@ -589,6 +591,7 @@ Open the problem file to see the solution and explanation.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
@@ -606,4 +609,8 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
