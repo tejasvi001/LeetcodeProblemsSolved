@@ -437,6 +437,7 @@ Open the problem file to see the solution and explanation.
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -460,6 +461,7 @@ Open the problem file to see the solution and explanation.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -503,6 +505,7 @@ Open the problem file to see the solution and explanation.
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
