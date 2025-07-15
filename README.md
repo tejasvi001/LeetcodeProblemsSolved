@@ -49,6 +49,7 @@ Open the problem file to see the solution and explanation.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0162-find-peak-element) |
@@ -109,6 +110,7 @@ Open the problem file to see the solution and explanation.
 | [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0208-implement-trie-prefix-tree) |
@@ -240,6 +242,7 @@ Open the problem file to see the solution and explanation.
 | [0058-length-of-last-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0208-implement-trie-prefix-tree) |
@@ -268,6 +271,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0208-implement-trie-prefix-tree) |
 ## Linked List
 |  |
@@ -327,6 +331,7 @@ Open the problem file to see the solution and explanation.
 | [0070-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
@@ -367,6 +372,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
