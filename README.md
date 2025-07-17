@@ -299,6 +299,7 @@ Open the problem file to see the solution and explanation.
 | [0838-design-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1765-merge-in-between-linked-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1765-merge-in-between-linked-lists) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
 ## Recursion
 |  |
