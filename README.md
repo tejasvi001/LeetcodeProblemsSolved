@@ -501,6 +501,7 @@ Open the problem file to see the solution and explanation.
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [2121-find-if-path-exists-in-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -544,6 +545,7 @@ Open the problem file to see the solution and explanation.
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [2121-find-if-path-exists-in-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2121-find-if-path-exists-in-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -702,5 +704,10 @@ Open the problem file to see the solution and explanation.
 ## Graph
 |  |
 | ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2121-find-if-path-exists-in-graph) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
