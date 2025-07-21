@@ -505,6 +505,7 @@ Open the problem file to see the solution and explanation.
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0801-is-graph-bipartite](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0801-is-graph-bipartite) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -549,6 +550,7 @@ Open the problem file to see the solution and explanation.
 | [0112-path-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0801-is-graph-bipartite) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -711,10 +713,12 @@ Open the problem file to see the solution and explanation.
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2121-find-if-path-exists-in-graph) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
