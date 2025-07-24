@@ -109,6 +109,7 @@ Open the problem file to see the solution and explanation.
 | [3639-zero-array-transformation-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Open the problem file to see the solution and explanation.
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Open the problem file to see the solution and explanation.
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -741,11 +744,13 @@ Open the problem file to see the solution and explanation.
 | [0801-is-graph-bipartite](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2121-find-if-path-exists-in-graph) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Union Find
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2121-find-if-path-exists-in-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
