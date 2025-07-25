@@ -108,6 +108,7 @@ Open the problem file to see the solution and explanation.
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -140,6 +141,7 @@ Open the problem file to see the solution and explanation.
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -257,6 +259,7 @@ Open the problem file to see the solution and explanation.
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
