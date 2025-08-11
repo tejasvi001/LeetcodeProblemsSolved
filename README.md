@@ -207,6 +207,7 @@ Open the problem file to see the solution and explanation.
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -615,6 +616,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 ## Monotonic Stack
 |  |
@@ -750,6 +752,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
+| [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
 ## Graph
 |  |
 | ------- |
