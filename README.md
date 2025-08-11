@@ -59,6 +59,7 @@ Open the problem file to see the solution and explanation.
 | [0169-majority-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0229-majority-element-ii) |
@@ -389,6 +390,7 @@ Open the problem file to see the solution and explanation.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
