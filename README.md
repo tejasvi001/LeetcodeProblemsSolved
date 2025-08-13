@@ -44,6 +44,7 @@ Open the problem file to see the solution and explanation.
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -406,6 +407,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0190-reverse-bits) |
@@ -773,4 +775,8 @@ Open the problem file to see the solution and explanation.
 | ------- |
 | [0207-course-schedule](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
