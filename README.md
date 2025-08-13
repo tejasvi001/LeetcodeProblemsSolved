@@ -38,6 +38,7 @@ Open the problem file to see the solution and explanation.
 | [0035-search-insert-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0059-spiral-matrix-ii) |
@@ -462,6 +463,7 @@ Open the problem file to see the solution and explanation.
 | ------- |
 | [0015-3sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0148-sort-list) |
@@ -780,5 +782,6 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
