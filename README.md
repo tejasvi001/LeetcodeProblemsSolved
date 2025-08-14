@@ -39,6 +39,7 @@ Open the problem file to see the solution and explanation.
 | [0042-trapping-rain-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0059-spiral-matrix-ii) |
@@ -787,5 +788,6 @@ Open the problem file to see the solution and explanation.
 | [0022-generate-parentheses](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
