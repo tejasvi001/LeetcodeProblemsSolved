@@ -302,6 +302,7 @@ Open the problem file to see the solution and explanation.
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2128-reverse-prefix-of-word) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
