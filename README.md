@@ -36,6 +36,7 @@ Open the problem file to see the solution and explanation.
 | [0033-search-in-rotated-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0047-permutations-ii) |
@@ -126,6 +127,7 @@ Open the problem file to see the solution and explanation.
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0141-linked-list-cycle) |
@@ -451,6 +453,7 @@ Open the problem file to see the solution and explanation.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
@@ -786,6 +789,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0051-n-queens) |
