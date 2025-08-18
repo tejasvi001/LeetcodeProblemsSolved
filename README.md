@@ -86,6 +86,7 @@ Open the problem file to see the solution and explanation.
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
@@ -273,6 +274,7 @@ Open the problem file to see the solution and explanation.
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1448-maximum-69-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
@@ -415,6 +417,7 @@ Open the problem file to see the solution and explanation.
 | [0198-house-robber](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
@@ -495,6 +498,7 @@ Open the problem file to see the solution and explanation.
 | [0268-missing-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
+| [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
