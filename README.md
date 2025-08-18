@@ -81,6 +81,7 @@ Open the problem file to see the solution and explanation.
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
@@ -275,6 +276,7 @@ Open the problem file to see the solution and explanation.
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -502,6 +504,7 @@ Open the problem file to see the solution and explanation.
 | [0295-find-median-from-data-stream](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
