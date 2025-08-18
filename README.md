@@ -102,6 +102,7 @@ Open the problem file to see the solution and explanation.
 | [1510-find-lucky-integer-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -273,6 +274,7 @@ Open the problem file to see the solution and explanation.
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1448-maximum-69-number) |
+| [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
@@ -494,6 +496,7 @@ Open the problem file to see the solution and explanation.
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2331-intersection-of-multiple-arrays) |
