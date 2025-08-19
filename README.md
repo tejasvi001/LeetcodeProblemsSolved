@@ -87,6 +87,7 @@ Open the problem file to see the solution and explanation.
 | [0503-next-greater-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0733-flood-fill) |
@@ -278,6 +279,7 @@ Open the problem file to see the solution and explanation.
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1448-maximum-69-number) |
@@ -505,6 +507,7 @@ Open the problem file to see the solution and explanation.
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
@@ -765,6 +768,7 @@ Open the problem file to see the solution and explanation.
 | [0239-sliding-window-maximum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
+| [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
