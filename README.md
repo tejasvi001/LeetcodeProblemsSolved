@@ -92,6 +92,7 @@ Open the problem file to see the solution and explanation.
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0817-design-hashmap) |
@@ -425,6 +426,7 @@ Open the problem file to see the solution and explanation.
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-min-cost-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
