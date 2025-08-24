@@ -223,6 +223,7 @@ Open the problem file to see the solution and explanation.
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1448-maximum-69-number) |
 | [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
@@ -432,6 +433,7 @@ Open the problem file to see the solution and explanation.
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1236-n-th-tribonacci-number) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3618-find-the-original-typed-string-ii) |
@@ -474,6 +476,7 @@ Open the problem file to see the solution and explanation.
 | [0070-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1236-n-th-tribonacci-number) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Matrix
 |  |
