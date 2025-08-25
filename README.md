@@ -84,6 +84,7 @@ Open the problem file to see the solution and explanation.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
@@ -463,6 +464,7 @@ Open the problem file to see the solution and explanation.
 | [0067-add-binary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
@@ -489,6 +491,7 @@ Open the problem file to see the solution and explanation.
 | [0073-set-matrix-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
