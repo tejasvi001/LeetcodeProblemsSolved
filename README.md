@@ -118,6 +118,7 @@ Open the problem file to see the solution and explanation.
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
+| [2714-left-and-right-sum-differences](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
@@ -651,6 +652,7 @@ Open the problem file to see the solution and explanation.
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2714-left-and-right-sum-differences](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2714-left-and-right-sum-differences) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search Tree
