@@ -79,6 +79,7 @@ Open the problem file to see the solution and explanation.
 | [0303-range-sum-query-immutable](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -429,6 +430,7 @@ Open the problem file to see the solution and explanation.
 | [0198-house-robber](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0747-min-cost-climbing-stairs) |
