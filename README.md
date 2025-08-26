@@ -67,6 +67,7 @@ Open the problem file to see the solution and explanation.
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0229-majority-element-ii) |
@@ -219,6 +220,7 @@ Open the problem file to see the solution and explanation.
 | [0070-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
@@ -673,6 +675,7 @@ Open the problem file to see the solution and explanation.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
@@ -811,6 +814,7 @@ Open the problem file to see the solution and explanation.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
 ## Graph
