@@ -129,6 +129,7 @@ Open the problem file to see the solution and explanation.
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -238,6 +239,7 @@ Open the problem file to see the solution and explanation.
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
@@ -543,6 +545,7 @@ Open the problem file to see the solution and explanation.
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
 ## Tree
 |  |
@@ -836,6 +839,7 @@ Open the problem file to see the solution and explanation.
 | [0204-count-primes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Graph
 |  |
 | ------- |
@@ -870,4 +874,8 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
