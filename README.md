@@ -412,6 +412,7 @@ Open the problem file to see the solution and explanation.
 | [0143-reorder-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
@@ -572,6 +573,7 @@ Open the problem file to see the solution and explanation.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -640,6 +642,7 @@ Open the problem file to see the solution and explanation.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -694,6 +697,7 @@ Open the problem file to see the solution and explanation.
 | [0098-validate-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -756,6 +760,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0232-implement-queue-using-stacks) |
@@ -886,4 +891,8 @@ Open the problem file to see the solution and explanation.
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
