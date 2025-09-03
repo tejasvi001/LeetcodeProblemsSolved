@@ -329,6 +329,7 @@ Open the problem file to see the solution and explanation.
 | [0344-reverse-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
@@ -396,6 +397,7 @@ Open the problem file to see the solution and explanation.
 | [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
@@ -413,6 +415,7 @@ Open the problem file to see the solution and explanation.
 | [0225-implement-stack-using-queues](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0735-asteroid-collision) |
