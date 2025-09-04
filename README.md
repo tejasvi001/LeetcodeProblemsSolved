@@ -298,6 +298,7 @@ Open the problem file to see the solution and explanation.
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1448-maximum-69-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
@@ -333,6 +334,7 @@ Open the problem file to see the solution and explanation.
 | [0394-decode-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -420,6 +422,7 @@ Open the problem file to see the solution and explanation.
 | [0394-decode-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -452,6 +455,7 @@ Open the problem file to see the solution and explanation.
 | [0416-partition-equal-subset-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
