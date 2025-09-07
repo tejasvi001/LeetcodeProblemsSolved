@@ -597,6 +597,7 @@ Open the problem file to see the solution and explanation.
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -628,6 +629,7 @@ Open the problem file to see the solution and explanation.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -666,6 +668,7 @@ Open the problem file to see the solution and explanation.
 | [0450-delete-node-in-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -686,6 +689,7 @@ Open the problem file to see the solution and explanation.
 | [0210-course-schedule-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0774-maximum-depth-of-n-ary-tree) |
