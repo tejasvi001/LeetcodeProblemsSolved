@@ -109,6 +109,7 @@ Open the problem file to see the solution and explanation.
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
 | [1293-three-consecutive-odds](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1293-three-consecutive-odds) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -235,6 +236,7 @@ Open the problem file to see the solution and explanation.
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1448-maximum-69-number) |
 | [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
