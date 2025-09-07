@@ -228,6 +228,7 @@ Open the problem file to see the solution and explanation.
 | [0172-factorial-trailing-zeroes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
@@ -331,6 +332,7 @@ Open the problem file to see the solution and explanation.
 | [0151-reverse-words-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0344-reverse-string) |
@@ -403,6 +405,7 @@ Open the problem file to see the solution and explanation.
 | [0143-reorder-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0342-power-of-four) |
@@ -422,6 +425,7 @@ Open the problem file to see the solution and explanation.
 | [0144-binary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
