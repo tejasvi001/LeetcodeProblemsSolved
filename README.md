@@ -160,6 +160,7 @@ Open the problem file to see the solution and explanation.
 | [0242-valid-anagram](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
@@ -334,6 +335,7 @@ Open the problem file to see the solution and explanation.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
@@ -810,6 +812,7 @@ Open the problem file to see the solution and explanation.
 | [0169-majority-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2331-intersection-of-multiple-arrays) |
 ## Monotonic Queue
