@@ -266,6 +266,7 @@ Open the problem file to see the solution and explanation.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3830-find-closest-person) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -380,6 +381,7 @@ Open the problem file to see the solution and explanation.
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
 | [3396-valid-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3618-find-the-original-typed-string-ii) |
 ## Trie
@@ -965,4 +967,12 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
