@@ -178,6 +178,7 @@ Open the problem file to see the solution and explanation.
 | [0817-design-hashmap](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0817-design-hashmap) |
 | [0900-reordered-power-of-2](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -367,6 +368,7 @@ Open the problem file to see the solution and explanation.
 | [0678-valid-parenthesis-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
