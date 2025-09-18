@@ -189,6 +189,7 @@ Open the problem file to see the solution and explanation.
 | [2486-most-frequent-even-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2486-most-frequent-even-element) |
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3678-design-task-manager](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -842,6 +843,7 @@ Open the problem file to see the solution and explanation.
 | [0937-online-stock-span](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0969-number-of-recent-calls) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [3678-design-task-manager](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -902,6 +904,7 @@ Open the problem file to see the solution and explanation.
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1917-maximum-average-pass-ratio) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3678-design-task-manager](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
 | ------- |
@@ -988,4 +991,8 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
