@@ -147,6 +147,7 @@ Open the problem file to see the solution and explanation.
 | [3639-zero-array-transformation-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -192,6 +193,7 @@ Open the problem file to see the solution and explanation.
 | [3242-count-elements-with-maximum-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
@@ -214,6 +216,7 @@ Open the problem file to see the solution and explanation.
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3827-implement-router](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
@@ -848,6 +851,7 @@ Open the problem file to see the solution and explanation.
 | [0969-number-of-recent-calls](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0969-number-of-recent-calls) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [3678-design-task-manager](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -857,6 +861,7 @@ Open the problem file to see the solution and explanation.
 | [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0969-number-of-recent-calls) |
+| [3827-implement-router](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -1000,6 +1005,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3827-implement-router) |
 ## Rolling Hash
 |  |
 | ------- |
