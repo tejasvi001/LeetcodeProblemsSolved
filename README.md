@@ -97,6 +97,7 @@ Open the problem file to see the solution and explanation.
 | [0503-next-greater-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
@@ -212,6 +213,7 @@ Open the problem file to see the solution and explanation.
 | [0268-missing-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0374-guess-number-higher-or-lower) |
+| [0611-valid-triangle-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -315,6 +317,7 @@ Open the problem file to see the solution and explanation.
 | [0392-is-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0611-valid-triangle-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
@@ -333,6 +336,7 @@ Open the problem file to see the solution and explanation.
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
@@ -605,6 +609,7 @@ Open the problem file to see the solution and explanation.
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0611-valid-triangle-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0900-reordered-power-of-2) |
