@@ -20,7 +20,7 @@ class Solution {
                 i++;
                 k++;
         }
-         while(j<n){
+        while(j<n){
              nums1[k]=nums2[j];
                 j++;
                 k++;
