@@ -1,15 +1,14 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        ArrayList<Integer> obj=new ArrayList<>();
-        for(int i:nums){
-            if(i!=val)
-                obj.add(i);
-        }
+        int ndi=0;
         int i=0;
-        for(Integer x: obj){
-            nums[i]=x;
-            i++;
+        while(i<nums.length){
+            if(nums[i]==val){
+                i++;
+            }else{
+                nums[ndi++]=nums[i++];
+            }
         }
-        return i;
+        return ndi;
     }
 }
