@@ -266,6 +266,7 @@ Open the problem file to see the solution and explanation.
 | [0342-power-of-four](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0412-fizz-buzz) |
+| [0593-valid-square](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0593-valid-square) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0900-reordered-power-of-2](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
@@ -994,6 +995,7 @@ Open the problem file to see the solution and explanation.
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0593-valid-square) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Iterator
