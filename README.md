@@ -287,6 +287,7 @@ Open the problem file to see the solution and explanation.
 | [3336-water-bottles-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3830-find-closest-person) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -551,6 +552,7 @@ Open the problem file to see the solution and explanation.
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
