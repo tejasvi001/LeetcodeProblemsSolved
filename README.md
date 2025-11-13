@@ -122,6 +122,7 @@ Open the problem file to see the solution and explanation.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1580-shuffle-the-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
