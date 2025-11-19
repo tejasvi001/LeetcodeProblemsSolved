@@ -119,6 +119,7 @@ Open the problem file to see the solution and explanation.
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
 | [1293-three-consecutive-odds](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1395-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -283,6 +284,7 @@ Open the problem file to see the solution and explanation.
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1289-day-of-the-week) |
+| [1395-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1014,6 +1016,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0593-valid-square) |
+| [1395-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Iterator
