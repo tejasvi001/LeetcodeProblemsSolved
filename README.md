@@ -121,6 +121,7 @@ Open the problem file to see the solution and explanation.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1580-shuffle-the-array) |
@@ -194,6 +195,7 @@ Open the problem file to see the solution and explanation.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -639,6 +641,7 @@ Open the problem file to see the solution and explanation.
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
@@ -1005,6 +1008,7 @@ Open the problem file to see the solution and explanation.
 ## Counting Sort
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Geometry
 |  |
