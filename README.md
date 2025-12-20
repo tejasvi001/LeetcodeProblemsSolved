@@ -113,6 +113,7 @@ Open the problem file to see the solution and explanation.
 | [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -405,6 +406,7 @@ Open the problem file to see the solution and explanation.
 | [0451-sort-characters-by-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0944-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1264-maximum-number-of-words-you-can-type) |
