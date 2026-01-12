@@ -119,6 +119,7 @@ Open the problem file to see the solution and explanation.
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1390-four-divisors) |
@@ -288,6 +289,7 @@ Open the problem file to see the solution and explanation.
 | [1013-fibonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1289-day-of-the-week](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1289-day-of-the-week) |
 | [1390-four-divisors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1395-minimum-time-visiting-all-points) |
@@ -1029,6 +1031,7 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0593-valid-square) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1395-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
