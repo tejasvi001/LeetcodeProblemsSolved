@@ -134,6 +134,7 @@ Open the problem file to see the solution and explanation.
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1917-maximum-average-pass-ratio) |
 | [2058-concatenation-of-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2058-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -353,6 +354,7 @@ Open the problem file to see the solution and explanation.
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -374,6 +376,7 @@ Open the problem file to see the solution and explanation.
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1448-maximum-69-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1917-maximum-average-pass-ratio) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -659,6 +662,7 @@ Open the problem file to see the solution and explanation.
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2274-keep-multiplying-found-values-by-two) |
