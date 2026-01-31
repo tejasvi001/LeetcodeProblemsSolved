@@ -106,6 +106,7 @@ Open the problem file to see the solution and explanation.
 | [0733-flood-fill](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0816-design-hashset) |
@@ -237,6 +238,7 @@ Open the problem file to see the solution and explanation.
 | [0374-guess-number-higher-or-lower](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
