@@ -96,6 +96,7 @@ Open the problem file to see the solution and explanation.
 | [0496-next-greater-element-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
@@ -653,6 +654,7 @@ Open the problem file to see the solution and explanation.
 | [0435-non-overlapping-intervals](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0506-relative-ranks](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
@@ -966,6 +968,7 @@ Open the problem file to see the solution and explanation.
 | [0295-find-median-from-data-stream](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0630-course-schedule-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
