@@ -579,6 +579,7 @@ Open the problem file to see the solution and explanation.
 | [0338-counting-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0401-binary-watch) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -1032,6 +1033,7 @@ Open the problem file to see the solution and explanation.
 | [0051-n-queens](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0494-target-sum) |
 ## Counting Sort
 |  |
