@@ -580,6 +580,7 @@ Open the problem file to see the solution and explanation.
 | [0342-power-of-four](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
