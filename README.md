@@ -602,6 +602,7 @@ Open the problem file to see the solution and explanation.
 | [0898-transpose-matrix](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2069-walking-robot-simulation-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -915,6 +916,7 @@ Open the problem file to see the solution and explanation.
 | [0937-online-stock-span](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0969-number-of-recent-calls) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [2069-walking-robot-simulation-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2069-walking-robot-simulation-ii) |
 | [3678-design-task-manager](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3827-implement-router) |
 ## Queue
