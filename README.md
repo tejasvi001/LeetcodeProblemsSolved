@@ -164,6 +164,7 @@ Open the problem file to see the solution and explanation.
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3639-zero-array-transformation-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3827-implement-router) |
@@ -264,6 +265,7 @@ Open the problem file to see the solution and explanation.
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0954-maximum-sum-circular-subarray) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -610,6 +612,7 @@ Open the problem file to see the solution and explanation.
 | [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Memoization
 |  |
 | ------- |
