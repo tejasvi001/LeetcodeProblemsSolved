@@ -136,6 +136,7 @@ Open the problem file to see the solution and explanation.
 | [1741-sort-array-by-increasing-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1917-maximum-average-pass-ratio) |
