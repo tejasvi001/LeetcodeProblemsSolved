@@ -164,6 +164,7 @@ Open the problem file to see the solution and explanation.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3639-zero-array-transformation-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -319,6 +320,7 @@ Open the problem file to see the solution and explanation.
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3676-smallest-number-with-all-set-bits) |
