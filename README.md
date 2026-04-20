@@ -142,6 +142,7 @@ Open the problem file to see the solution and explanation.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1917-maximum-average-pass-ratio) |
 | [2058-concatenation-of-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -391,6 +392,7 @@ Open the problem file to see the solution and explanation.
 | [1829-maximum-units-on-a-truck](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1917-maximum-average-pass-ratio) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
