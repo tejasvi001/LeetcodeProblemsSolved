@@ -449,6 +449,7 @@ Open the problem file to see the solution and explanation.
 | [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
+| [2833-furthest-point-from-origin](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2833-furthest-point-from-origin) |
 | [3396-valid-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
@@ -966,6 +967,7 @@ Open the problem file to see the solution and explanation.
 | [1510-find-lucky-integer-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2486-most-frequent-even-element) |
+| [2833-furthest-point-from-origin](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Monotonic Queue
