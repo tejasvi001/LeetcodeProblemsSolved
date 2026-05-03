@@ -431,6 +431,7 @@ Open the problem file to see the solution and explanation.
 | [0443-string-compression](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0944-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -544,6 +545,7 @@ Open the problem file to see the solution and explanation.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
