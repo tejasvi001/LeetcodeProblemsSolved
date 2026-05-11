@@ -154,6 +154,7 @@ Open the problem file to see the solution and explanation.
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2486-most-frequent-even-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2486-most-frequent-even-element) |
+| [2553-separate-the-digits-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
@@ -626,6 +627,7 @@ Open the problem file to see the solution and explanation.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3653-xor-after-range-multiplication-queries-i) |
