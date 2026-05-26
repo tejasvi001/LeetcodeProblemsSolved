@@ -222,6 +222,7 @@ Open the problem file to see the solution and explanation.
 | [2331-intersection-of-multiple-arrays](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2486-most-frequent-even-element) |
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3678-design-task-manager) |
@@ -455,6 +456,7 @@ Open the problem file to see the solution and explanation.
 | [2580-circular-sentence](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2825-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2833-furthest-point-from-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3396-valid-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
