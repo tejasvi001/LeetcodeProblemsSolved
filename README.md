@@ -331,6 +331,7 @@ Open the problem file to see the solution and explanation.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-find-closest-person](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3830-find-closest-person) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -587,6 +588,7 @@ Open the problem file to see the solution and explanation.
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3618-find-the-original-typed-string-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1036,6 +1038,7 @@ Open the problem file to see the solution and explanation.
 | [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph
 |  |
 | ------- |
