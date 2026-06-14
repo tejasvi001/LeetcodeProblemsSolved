@@ -378,6 +378,7 @@ Open the problem file to see the solution and explanation.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Greedy
@@ -499,6 +500,7 @@ Open the problem file to see the solution and explanation.
 | [0860-design-circular-queue](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1765-merge-in-between-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2411-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -545,6 +547,7 @@ Open the problem file to see the solution and explanation.
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [2128-reverse-prefix-of-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
 |  |
