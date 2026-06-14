@@ -176,6 +176,7 @@ Open the problem file to see the solution and explanation.
 | [3827-implement-router](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3838-weighted-word-mapping](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-weighted-word-mapping) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -464,6 +465,7 @@ Open the problem file to see the solution and explanation.
 | [3462-vowels-game-in-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3618-find-the-original-typed-string-ii) |
+| [3838-weighted-word-mapping](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -640,6 +642,7 @@ Open the problem file to see the solution and explanation.
 | [3336-water-bottles-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3838-weighted-word-mapping) |
 ## Memoization
 |  |
 | ------- |
