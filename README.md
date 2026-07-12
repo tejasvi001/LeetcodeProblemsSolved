@@ -124,6 +124,7 @@ Open the problem file to see the solution and explanation.
 | [1200-minimum-absolute-difference](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1293-three-consecutive-odds) |
+| [1331-rank-transform-of-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1395-minimum-time-visiting-all-points) |
@@ -214,6 +215,7 @@ Open the problem file to see the solution and explanation.
 | [1015-smallest-integer-divisible-by-k](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -705,6 +707,7 @@ Open the problem file to see the solution and explanation.
 | [1019-squares-of-a-sorted-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1741-sort-array-by-increasing-frequency) |
