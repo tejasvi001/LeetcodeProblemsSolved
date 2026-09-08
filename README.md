@@ -342,6 +342,7 @@ Open the problem file to see the solution and explanation.
 | [3676-smallest-number-with-all-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-find-closest-person](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3830-find-closest-person) |
+| [3870-count-commas-in-range](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
