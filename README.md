@@ -460,6 +460,7 @@ Open the problem file to see the solution and explanation.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2128-reverse-prefix-of-word) |
@@ -561,6 +562,7 @@ Open the problem file to see the solution and explanation.
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2470-removing-stars-from-a-string) |
@@ -1139,4 +1141,8 @@ Open the problem file to see the solution and explanation.
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
