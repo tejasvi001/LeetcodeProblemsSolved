@@ -163,6 +163,7 @@ Open the problem file to see the solution and explanation.
 | [2722-prime-in-diagonal](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2722-prime-in-diagonal) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1064,6 +1065,7 @@ Open the problem file to see the solution and explanation.
 | [0875-longest-mountain-in-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/0900-reordered-power-of-2) |
 | [2507-number-of-common-factors](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2507-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
