@@ -175,6 +175,7 @@ Open the problem file to see the solution and explanation.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3639-zero-array-transformation-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -419,6 +420,7 @@ Open the problem file to see the solution and explanation.
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -736,6 +738,7 @@ Open the problem file to see the solution and explanation.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tejasvi001/LeetcodeProblemsSolved/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
